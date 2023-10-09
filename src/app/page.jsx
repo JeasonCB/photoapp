@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Card from './components/cards/Card'
 import CtaCard from './components/cards/CtaCard'
 
